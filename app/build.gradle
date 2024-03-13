@@ -29,6 +29,7 @@ android {
         targetSdkVersion 32
         versionCode 1
         versionName "1.0.0"
+        namespace "org.tensorflow.lite.examples.objectdetection"
     }
 
     dataBinding {
